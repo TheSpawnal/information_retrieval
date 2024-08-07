@@ -1,1 +1,1 @@
-#Effective Information Retrieval Methods py3/ipynb
+#Effective Information Retrieval Methodologies under py3/ipynb
